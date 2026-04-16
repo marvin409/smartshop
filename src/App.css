@@ -1,0 +1,8 @@
+.app-shell {
+  position: relative;
+  isolation: isolate;
+}
+
+.app-main {
+  position: relative;
+}
